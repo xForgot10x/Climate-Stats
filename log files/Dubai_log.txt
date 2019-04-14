@@ -1,0 +1,5 @@
+Incorrect monthly average for: 2004 3
+Incorrect monthly average for: 2005 10
+Incorrect monthly average for: 2005 11
+Incorrect monthly average for: 2007 6
+Incorrect monthly average for: 2007 7

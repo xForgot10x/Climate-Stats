@@ -1,0 +1,16 @@
+Incorrect monthly average for: 2005 10
+Incorrect monthly average for: 2005 11
+Incorrect monthly average for: 2016 7
+Incorrect monthly average for: 2016 8
+Incorrect monthly average for: 2016 9
+Incorrect monthly average for: 2016 10
+Incorrect monthly average for: 2016 11
+Incorrect monthly average for: 2016 12
+Incorrect monthly average for: 2017 1
+Incorrect monthly average for: 2017 2
+Incorrect monthly average for: 2017 3
+Incorrect monthly average for: 2017 4
+Incorrect monthly average for: 2017 5
+Incorrect monthly average for: 2017 6
+Incorrect monthly average for: 2017 7
+Incorrect monthly average for: 2017 8
